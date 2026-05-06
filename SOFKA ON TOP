@@ -1,1 +1,502 @@
---[[ v1.0.0 https://wearedevs.net/obfuscator ]] return(function(...)local X={"\052\090\085\066\122\113\084\078\086\113\048\061","","\103\100\052\084\049\100\121\061";"\110\114\068\084\122\100\052\085";"\110\109\098\074\049\083\081\061","\050\077\055\066\086\053\122\113\086\083\070\070\110\106\088\105";"\103\101\098\065\049\077\071\061";"\047\043\048\106\110\104\085\065\047\048\061\061";"\110\083\052\068\076\048\061\061";"\049\090\078\057\073\055\061\061","\047\048\061\061";"\122\100\078\043\049\100\086\061","\087\080\071\087\084\056\086\101\117\071\107\071\108\120\115\053\103\081\050\072\074\112\078\101\106\075\072\066\050\103\065\051\075\111\107\103\057\088\066\066\075\103\081\086\068\100\103\057\082\084\073\047\081\119\104\108\108\071\090\055\052\051\065\071\048\104\121\061","\049\100\070\051\073\067\079\116\047\100\068\121","\086\112\052\079\086\113\088\074\117\101\056\070\052\057\065\069\071\071\061\061","\070\067\078\104\050\089\071\121\053\066\117\121\076\068\065\106\122\100\117\061";"\047\101\110\051\088\100\078\074\088\100\070\065\070\053\122\090\088\055\061\061","\103\083\070\074\073\090\079\077","\110\067\069\102\049\083\081\061";"\103\067\088\118\049\083\110\106","\076\077\106\057\110\071\061\061","\103\114\088\057\076\114\069\065\103\100\098\102\076\109\098\105";"\049\113\089\061";"\088\100\078\118\103\100\088\074\081\089\070\106\122\100\088\112\122\100\088\105\081\071\061\061","\109\068\054\065\049\067\070\106\050\055\061\061","\109\068\054\087\110\090\115\061";"\110\053\122\076\120\089\070\112\070\067\052\088\053\067\117\121\110\071\061\061","\117\105\118\069\086\121\061\061";"\110\114\078\118\110\071\061\061";"\103\114\088\057\049\090\088\057\076\109\070\084\076\067\069\106";"\069\097\112\070\048\053\081\085\065\055\061\061","\120\114\106\112\073\121\061\061";"\076\114\084\084\103\048\061\061","\109\068\054\077\076\121\061\061";"\047\078\088\056\070\068\076\121\110\078\084\075\122\067\068\080\088\121\061\061";"\049\100\088\075","\122\114\078\074\049\048\061\061","\122\100\054\066\122\101\098\065\049\067\103\061","\071\083\055\066\110\105\121\069\088\114\070\118\103\089\078\068\110\053\048\061";"\117\083\070\071\052\077\110\079\050\089\118\078\073\066\052\083","\076\090\118\110\049\078\084\109\050\090\122\114\110\053\098\098";"\078\085\114\119\112\067\076\055\103\110\048\090\057\122\054\081\122\087\074\081\116\109\043\049\053\111\119\071\090\100\053\048\105\073\066\109\109\072\119\105\098\047\117\070\101\077\083\084\080\048\114\071\073\112\077\054\057\047\050\089\122\102\050\057\107\114\119\080\114\065\110\085\119\081\073\054\083\103\105\054\076\057\081\120\052\079\110\118\070\099\119\070\073\121\106\066\121\056\065\068\120\072\107\065\084\117\071\088\084\111\088\113\114\081\068\054\112\053\112\055";"\076\114\054\075\076\114\078\057","\122\090\079\121\076\090\052\080","\109\068\054\118\110\109\070\084\122\100\078\043\049\100\086\061";"\122\100\054\075\122\090\068\043\110\109\081\061";"\049\113\081\061","\070\078\122\090\090\067\084\079\052\086\106\056\110\100\118\106\073\121\061\061","\106\118\078\069\102\117\090\081\118\120\076\078\066\051\089\061","\076\090\078\069\086\067\110\117\047\086\065\056\103\067\065\110\073\090\085\061";"\086\089\069\043\120\112\070\114\050\101\117\061","\074\086\081\104\050\098\100\043\054\112\080\065\055\102\077\112\076\113\043\119\106\053\108\086\078\081\103\083\121\106\069\103\103\089\105\088\065\090\057\061","\114\110\065\105\051\119\097\066\114\119\111\100\069\075\080\073\080\066\114\121\079\119\097\115\105\081\102\047\109\097\080\070\120\055\061\061";"\103\067\078\075\110\100\054\118"}for N,L in ipairs({{-178914+178915,-115230-(-115284)};{-903390+903391;447592+-447591};{-115742-(-115744),-898903-(-898957)}})do while L[575081-575080]<L[64181-64179]do X[L[-144965-(-144966)]],X[L[824008-824006]],L[740868+-740867],L[-868495+868497]=X[L[138514-138512]],X[L[996731-996730]],L[150796-150795]+(341318-341317),L[435147-435145]-(938622-938621)end end local function N(N)return X[N+(266722+-209483)]end do local N=table.concat local L=math.floor local e=table.insert local W=string.sub local u=X local H=string.len local h=string.char local C=type local s={O=670027-669970,f=-793946-(-793993);a=65988-65928;["\043"]=-616734+616768,["\049"]=710864+-710837,y=1029074+-1029026,x=1005364-1005346,V=330357-330337,["\054"]=452842+-452781,E=332300-332251;r=-637311-(-637365);j=205632-205595,T=-201612+201645;v=402538+-402493;w=-689609+689619,["\048"]=-918394-(-918426),m=515936-515913;L=481305-481281,c=566686-566627,Z=-705218-(-705240),I=-68634+68660;F=424670-424653,B=-702584+702635;["\052"]=721120-721107,e=1024982-1024975;["\057"]=643969-643917;i=474878-474842,["\051"]=-365066+365077,Y=-710510+710514,H=873414+-873383,d=-156273-(-156279);t=-941910+941925,["\055"]=629522-629522,z=-359666+359695;C=-206895+206933;["\047"]=-852119-(-852133);W=-326143-(-326187),b=853210+-853201,g=867845-867817;P=937088-937045,s=-637931-(-637987),o=122453+-122391;S=-767647+767702,["\056"]=-638781+638782,N=-572610-(-572615),k=713583-713525;A=-65029+65070,q=448320+-448317;Q=-1012913+1012921,G=531501+-531485;h=-877677-(-877679);D=-984892-(-984945),n=-367422+367447;p=-153960-(-153995);["\053"]=-1025277-(-1025296),J=109547-109497;K=-428467-(-428513),l=292619-292556,u=-27749-(-27761),U=951143+-951103;["\050"]=521916-521886;X=-775699+775720,R=686031-685989;M=456228+-456189}for X=-862618+862619,#u,-943812+943813 do local B=u[X]if C(B)=="\115\116\114\105\110\103"then local C=H(B)local M={}local S=-256107-(-256108)local U=-510992+510992 local k=-79417-(-79417)while S<=C do local X=W(B,S,S)local N=s[X]if N then U=U+N*(-166468+166532)^((75899-75896)-k)k=k+(376355-376354)if k==-649964+649968 then k=344351+-344351 local X=L(U/(-113043-(-178579)))local N=L((U%(766521-700985))/(-203799+204055))local W=U%(-146153+146409)e(M,h(X,N,W))U=-44542+44542 end elseif X=="\061"then e(M,h(L(U/(498632-433096))))if S>=C or W(B,S+(-176548+176549),S+(-646125-(-646126)))~="\061"then e(M,h(L((U%(868647+-803111))/(194964-194708))))end break end S=S+(-985921-(-985922))end u[X]=N(M)end end end return(function(X,e,W,u,H,h,C,b,K,R,M,B,s,L,Y,n,S,k,D,v,U,d)Y,U,D,S,L,d,b,s,M,k,B,R,K,v,n=function(X,N)local e=U(N)local W=function(W,u)return L(X,{W;u},N,e)end return W end,function(X)for N=-991504-(-991505),#X,754674+-754673 do B[X[N]]=(906727+-906726)+B[X[N]]end if W then local L=W(true)local e=H(L)e[N(817446-874659)],e[N(-376982+319778)],e[N(227459+-284671)]=X,k,function()return-998353+2321326 end return L else return u({},{[N(-828285-(-771081))]=k,[N(316064+-373277)]=X,[N(-1047961+990749)]=function()return 1226110-(-96863)end})end end,function(X,N)local e=U(N)local W=function()return L(X,{},N,e)end return W end,-523796+523796,function(L,W,u,H)local A,U,i,E,S,t,O,d,G,F,q,J,T,k,Q,C,z,Z,y,f,I,B,m,o,c,l,g,V,p,a,w,x,j,r while L do if L<6986475-(-778552)then if L<3973744-814797 then if L<-773034+2878202 then if L<1631462-781785 then if L<-495732+1272947 then if L<-181359+804872 then if L<-78559-(-263777)then L=n(-422090+1199606,{k})F={L()}L=X[N(-825288-(-768066))]C={e(F)}else x=848627+-848626 O=L m=A[x]x=false G=m==x L=G and-293676+3259145 or-635340+3109842 E=G end else f=949330-949330 I=#Q z=I==f L=z and 582751+12071599 or 894633+13297689 end else if L<-429533+1249551 then L=12592610-471415 else c=M()s[c]=C q=-291914+291979 z=Y(-644897+12651108,{})w=227210-227207 Q=N(-104007-(-46772))L=s[V]C=L(w,q)L=383833+-383833 q=L w=M()L=380975-380975 j=L s[w]=C C=X[Q]Z=N(-894066+836866)Q={C(z)}C=840245+-840243 L={e(Q)}Q=L L=Q[C]C=N(-476028+418836)z=L L=X[C]I=s[U]F=X[Z]Z=F(z)F=N(-984528-(-927298))r=I(Z,F)I={r()}C=L(e(I))I=M()s[I]=C r=s[w]F=r r=-574525-(-574526)Z=r r=-759783-(-759783)f=Z<r L=16820903-106349 C=395558+-395557 r=C-Z end end else if L<1998641-204039 then if L<1015525+595600 then if L<1203872-154256 then L=9099562-(-682925)g=s[d]C=g else C=N(543378-600611)L=X[C]B=N(-1013527-(-956313))C=L(B)C={}L=X[N(583341-640540)]end else U=N(824749+-881975)S=X[U]L=X[N(-97788+40598)]U=N(491212-548430)B=S[U]U=s[u[649170-649169]]S={B(U)}C={e(S)}end else if L<-470278+2440066 then g=nil V=nil k=nil L=4740896-(-861430)else f=N(559090-616281)L=X[f]f=N(-789725-(-732510))X[f]=L L=458336+1688786 end end end else if L<329859+2513921 then if L<-522101+3128635 then if L<-673703+3038912 then if L<359796+1818165 then L=296301+4940191 else S=s[u[-843134+843137]]U=868951-868950 B=S~=U L=B and-303121+3420944 or 15250303-343588 end else C=E L=O L=17391713-815304 end else if L<-468951+3210729 then L=9602104-(-1045931)S=s[u[682978-682976]]U=s[u[216753+-216750]]B=S==U C=B else I=#Q f=35298-35298 z=I==f L=13340945-(-851377)end end else if L<2637174-(-493683)then if L<3482086-504695 then x=-754688+754690 m=A[x]x=s[o]G=m==x L=270601+2203901 E=G else S=s[u[399078+-399075]]U=-458171+458203 B=S%U q=105474+-105461 c=1039688-1039686 k=s[u[-267773+267777]]V=s[u[-647034-(-647036)]]z=s[u[1025464-1025461]]Q=z-B z=-648284+648316 j=Q/z w=q-j t=c^w q=853481+-853225 g=V/t d=k(g)k=776565+4294190731 U=d%k d=-284830+284832 t=-537399-(-537400)k=d^B S=U/k k=s[u[-779969+779973]]V=S%t t=4295914703-947407 g=V*t d=k(g)k=s[u[-486877-(-486881)]]g=k(S)U=d+g B=nil d=13548-(-51988)V=198458-132922 k=U%d S=nil L=1557869-(-219698)c=228443+-228187 g=U-k d=g/V V=-228655-(-228911)g=k%V t=k-g V=t/c c=794373+-794117 t=d%c w=d-t c=w/q d=nil U=nil w={g,V,t;c}s[u[-673254-(-673255)]]=w c=nil V=nil g=nil t=nil k=nil end else if L<-874996+4008199 then w=w+q t=w<=c Q=not j t=Q and t Q=w>=c Q=j and Q t=Q or t Q=10315895-841835 L=t and Q t=2552152-666841 L=L or t else d=K(d)w=K(w)V=K(V)q=nil c=K(c)Q=nil z=nil V=N(-652379-(-595151))g=nil j=nil U=K(U)I=K(I)Q={}S=K(S)S=nil k=K(k)g=N(569598-626826)d=X[g]U=nil g=N(-260072+202853)w=M()t=nil k=d[g]d=M()c=N(475739+-532959)I=316205+-315949 z=-220056+220057 j=M()s[d]=k g=X[V]V=N(926084-983322)k=g[V]t=N(941878-999104)V=X[t]t=N(-224265-(-167047))g=V[t]f=I q={}t=X[c]c=N(742287+-799492)V=t[c]t=298875-298875 I=530900+-530899 c=M()s[c]=t t=-657057-(-657059)s[w]=t p=I t={}s[j]=q I=817437+-817437 a=p<I L=14303687-(-2069)q=668938-668938 I=z-p end end end end else if L<1027487+3845272 then if L<3471577-(-489893)then if L<2816982-(-765513)then if L<3618002-108817 then if L<3053690-(-315124)then z=I l=z Q[z]=l L=-711282+15017038 z=nil else s[u[797103-797098]]=C B=nil L=10450249-(-938640)end else Q=N(-88163-(-30937))j=X[Q]Q=N(76307+-133501)q=j[Q]c=q L=-933223+5542162 end else if L<4651828-878125 then F=s[S]L=F and 11473263-(-78197)or 441060+7176117 r=F else C={}L=true s[u[-64739+64740]]=L L=X[N(243077+-300280)]end end else if L<408707+4178408 then if L<-470320+4762528 then if L<-163677+4206645 then L=true L=-254291-(-336163)else G=-531677-(-531678)O=A[G]L=13839250-(-275472)E=O end else L=-327795+3473427 end else if L<-1003725+5689275 then L=w L=c and 410213-(-439064)or 5303538-374224 C=c else V=N(-191686-(-134485))q=6668993248327-45094 w=N(797235+-854460)L=-518955+13396689 g=X[V]c=U(w,q)t=S[c]V=g(t)end end end else if L<6406181-(-130812)then if L<4789602-(-866557)then if L<357897+5106582 then if L<-635018+5643453 then w=N(338206+-395400)c=X[w]L=527121-(-322156)C=c else L=true L=L and 13634128-766978 or-509063+7679129 end else C={S}L=X[N(1004841+-1062073)]end else if L<973712+4937601 then L={}B=L L=14005321-533624 U=s[u[-165873+165882]]S=-100484-(-100485)k=U U=-760836-(-760837)d=U U=825868+-825868 g=d<U U=S-d else L={}d=35184372216358-127526 s[u[282782-282780]]=L C=s[u[454133-454130]]t=N(-391247-(-334027))V=-20844-(-21099)k=C C=S%d s[u[215961-215957]]=C g=S%V V=-694260+694262 d=g+V s[u[-735860+735865]]=d V=X[t]t=N(-9015-48187)g=V[t]V=g(B)w=-64872+64873 L=2675589-(-455276)g=N(190977+-248213)c=V t=678757-678756 q=w U[S]=g g=258911-258660 w=-20613+20613 j=q<w w=t-q end end else if L<6834844-(-200270)then if L<-252776+6995375 then S=s[u[-268447-(-268448)]]d=9611+-9609 k=-258481-(-258482)U=S(k,d)S=832818+-832817 B=U==S L=B and 10821146-173111 or-967506+3598664 C=B else S=W[191757+-191755]B=W[-179622+179623]L=s[u[1009172-1009171]]U=L L=U[S]L=L and 1018161+14885775 or 5589026-(-692396)end else if L<925699+6441169 then L=X[N(850379-907576)]C={}else s[S]=r L=s[S]L=L and-803415+5115073 or 1011491+3014931 end end end end end else if L<48412+13109670 then if L<-576529+12088843 then if L<9095063-(-706210)then if L<-932160+10326297 then if L<9186305-(-16174)then if L<-906430+10041463 then U=s[u[409339-409333]]S=U==B L=743084+2744454 C=S else L=s[u[-1045483-(-1045493)]]S=s[u[651343-651332]]B[L]=S L=s[u[892327-892315]]S={L(B)}C={e(S)}L=X[N(335364-392575)]end else B=N(586461-643694)U=-272658+272658 L=X[B]S=s[u[404913-404905]]B=L(S,U)L=-473287+6281414 end else if L<8630724-(-992184)then Z=N(387356-444576)F=X[Z]t=w Z=N(189018-246235)r=F[Z]F=r(B,t)r=s[u[704453-704447]]Z=r()L=211541+2919324 I=F+Z z=I+g t=nil I=28265-28009 Q=z%I Z=934508+-934507 I=U[S]g=Q F=g+Z r=k[F]z=I..r U[S]=z else V=N(-1075899-(-1018671))t=N(-969517-(-912291))g=C C=X[V]V=N(-3254-53984)L=C[V]V=M()s[V]=L C=X[t]t=N(-851802-(-794607))j=N(317285+-374511)L=C[t]q=X[j]t=L c=q w=L L=q and 4237102-701406 or 921136+3687803 end end else if L<11918280-884165 then if L<10624884-33365 then if L<10425325-353962 then C=N(457006+-514198)c=v(16657845-511097,{})L=X[C]t=N(-800516-(-743281))B=s[u[-987166-(-987170)]]k=N(-83920+26720)U=X[k]V=X[t]t={V(c)}V=-552335+552337 g={e(t)}d=g[V]k=U(d)U=N(-653222-(-595992))S=B(k,U)B={S()}C=L(e(B))B=C S=s[u[777921-777916]]C=S L=S and 889162+8187795 or 3105253-(-382285)else L=X[N(-1076924-(-1019703))]C={}end else L=C and-1006791+10969600 or 11713140-324251 end else if L<-921057+12252891 then E=s[S]L=E and 722280+-175197 or-106576+16682985 C=E else L=s[u[-116287+116294]]L=L and 9396454-144276 or-415190+6223317 end end end else if L<11860620-(-762156)then if L<-750417+12918643 then if L<11478210-(-544759)then if L<10570388-(-1023053)then L=8629382-1012205 F=q==j r=F else U=12034998-385280 S=N(588289+-645499)C=16525744-275263 B=S^U L=C-B C=N(58456+-115693)B=L L=C/B C={L}L=X[N(275992-333215)]end else L=true L=L and 149126+12067912 or-835739+11108119 end else if L<12845640-629570 then O=s[S]L=O and-175585+4305224 or 14870791-756069 E=O else B=N(-713722-(-656507))C=N(103204-160395)L=X[C]C=X[B]B=N(-466416-(-409201))X[B]=L B=N(313762-370953)L=749641+11371554 X[B]=C B=s[u[-238758-(-238759)]]S=B()end end else if L<13325052-451602 then if L<-66525+12867649 then V=nil I=M()a=N(-636725+579517)z={}f=v(544864+13615896,{I,c,w,d})G=nil k=nil s[I]=z q=nil Q=nil l={}p=M()d=K(d)z=M()s[z]=f f={}s[p]=f A=N(-991508-(-934315))f=X[a]o=s[p]T=N(13817+-71030)i={[T]=o,[A]=G}a=f(l,i)t=nil S=a t=626802+10653606298350 g=nil g=N(-341246-(-284050))f=b(72346+6772316,{p;I,j,c;w,z})I=K(I)p=K(p)U=f z=K(z)c=K(c)V=22899324475581-978710 w=K(w)d=U(g,V)j=K(j)k=S[d]V=N(713472-770658)g=U(V,t)d=S[g]V=N(494354-551570)g=X[V]L=g and-188537+14792023 or 5860430-1026124 else f=-877719-(-877725)Z=835748-835747 L=s[V]F=L(Z,f)f=N(-599609-(-542418))L=N(668089+-725280)X[L]=F Z=X[f]f=-426298-(-426300)L=Z>f L=L and 439771+13000248 or-497145+2571161 end else if L<12077764-(-1012567)then j=3604899597320-525690 q=N(-37942-19265)c=N(837838+-895047)t=X[c]d=nil w=U(q,j)c=S[w]C={}w=N(-935978-(-878789))L=X[N(-24144-33054)]V=t[c]q=27900983366484-(-712556)c=U(w,q)t=S[c]g=V[t]V=N(79393-136599)V=g[V]U=nil V=V(g,k)k=nil S=nil g=nil else U=347804+-347579 S=s[u[-225302+225304]]B=S*U S=-398397+6015544303406 C=B+S B=-670713+35184372759545 S=-401661-(-401662)L=C%B s[u[491782+-491780]]=L B=s[u[606373-606370]]C=B~=S L=-657104+15563819 end end end end else if L<-293243+14629939 then if L<44747+13902594 then if L<14204495-734255 then if L<12440809-(-987998)then if L<13813839-538665 then L=240874+4995618 else p=M()A=-319772+319774 a=N(-566989+509761)s[p]=r l=-213647-(-213747)C=X[a]a=N(-277264-(-220026))G=N(-222101+164901)L=C[a]a=-405220+405221 C=L(a,l)i=-189691-(-189946)a=M()l=1004401-1004401 s[a]=C L=s[V]o=868237+-868236 C=L(l,i)l=M()s[l]=C i=682396-682395 L=s[V]T=s[a]C=L(i,T)i=M()s[i]=C C=s[V]T=C(o,A)C=764248-764247 L=T==C T=M()s[T]=L A=N(-665033+607806)J=565518+-555518 C=N(-651004-(-593774))y=826227+-826227 O=X[G]m=s[V]x={m(y,J)}G=O(e(x))L=N(660502+-717731)O=N(-419073-(-361846))L=z[L]E=G..O o=A..E L=L(z,C,o)o=M()s[o]=L A=N(272533-329768)E=D(5673404-(-915396),{V;p,w,U,S,I,T;o;a;i,l;c})C=X[A]A={C(E)}L={e(A)}A=L L=s[T]L=L and 207742+10960847 or 12382217-168614 end else Z=N(-1050517-(-993317))p=N(902595+-959810)L=X[Z]f=X[p]Z=L(f)L=N(558691+-615882)X[L]=Z L=555218+1591904 end else if L<13366709-(-157102)then U=U+d V=not g S=U<=k S=V and S V=U>=k V=g and V S=V or S V=14111079-397623 L=S and V S=-880721+10070237 L=L or S else c=-144998-(-145253)t=-596647-(-596647)S=U L=s[u[279085+-279084]]V=L(t,c)B[S]=V L=897180+12574517 S=nil end end else if L<-494570+14670637 then if L<-925678+15071333 then s[S]=E y=844415+-844414 x=s[i]m=x+y G=A[m]O=q+G G=441529-441273 L=O%G q=L m=s[l]G=j+m m=-312281+312537 O=G%m L=-601256+16856006 j=O else B=s[u[1007016-1007015]]C=#B B=-310062+310062 L=C==B L=L and 13690313-544720 or-437661+2215228 end else if L<13456670-(-784834)then L=238714-(-530854)f=#Q l=844485+-844484 I=-194851+194852 z=k(I,f)I=g(Q,z)f=s[j]z=nil a=I-l p=V(a)f[I]=p I=nil else l=not a I=I+p z=I<=f z=l and z l=I>=f l=a and l z=l or z l=-512242+3704879 L=z and l z=2767263-8671 L=L or z end end end else if L<-177999+16098988 then if L<65536+14846402 then if L<626001+14242427 then if L<13649814-(-774311)then L=true L=L and 13911694-695756 or 214083-132211 else w=N(220563-277748)V=N(458675-515891)g=X[V]V=g(d)V=N(-480658-(-423427))L=12860328-(-17406)g=X[V]q=1736926222060-742340 c=U(w,q)t=S[c]V=g(t)end else U=338768-338589 S=s[u[-237643-(-237646)]]B=S*U S=-256089+256346 C=B%S s[u[-193535-(-193538)]]=C L=-265643+2505206 end else if L<169578+14787755 then k=M()L=true B=W d=M()U=N(896897+-954117)t=R(3254185-(-694495),{d})S=M()s[S]=L V=N(-263981-(-206746))C=X[U]U=N(638285+-695519)L=C[U]U=M()s[U]=L L=Y(60669+1221515,{})s[k]=L L=false s[d]=L g=X[V]V=g(t)C=V L=V and 326745-(-522950)or 420762+9361725 else L=4620441-(-981885)end end else if L<17509196-939891 then if L<16622478-379871 then S=N(949726-1006913)U=6446742-(-537478)B=S^U C=3608314-(-29714)L=C-B C=N(-317635-(-260411))B=L L=C/B C={L}L=X[N(-1035565+978377)]else a=K(a)p=K(p)L=-664446+17379000 A=nil o=K(o)l=K(l)T=K(T)i=K(i)end else if L<17525869-916434 then L=15598996-(-655754)s[S]=C else r=r+Z p=not f C=r<=F C=p and C p=r>=F p=f and p C=p or C p=12664304-(-694605)L=C and p C=3175892-(-583512)L=L or C end end end end end end end L=#H return e(C)end,function(X,N)local e=U(N)local W=function(...)return L(X,{...},N,e)end return W end,function(X,N)local e=U(N)local W=function(W,u,H,h,C,s,B)return L(X,{W;u,H;h,C,s,B},N,e)end return W end,{},function()S=(-193115+193116)+S B[S]=72955-72954 return S end,function(X)local N,L=957473+-957472,X[453236+-453235]while L do B[L],N=B[L]-(-435655-(-435656)),N+(1014452-1014451)if B[L]==683392+-683392 then B[L],s[L]=nil,nil end L=X[N]end end,{},function(X,N)local e=U(N)local W=function(W)return L(X,{W},N,e)end return W end,function(X)B[X]=B[X]-(650058-650057)if-321165+321165==B[X]then B[X],s[X]=nil,nil end end,function(X,N)local e=U(N)local W=function(W,u,H)return L(X,{W;u,H},N,e)end return W end,function(X,N)local e=U(N)local W=function(W,u,H,h,C)return L(X,{W,u;H,h;C},N,e)end return W end return(d(121807+14804037,{}))(e(C))end)(getfenv and getfenv()or _ENV,unpack or table[N(-874698-(-817504))],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+-- =============================================
+--   BASE PROTECTOR LAVA EDITION
+--   With 12 sec loading bar
+-- =============================================
+
+if not game:IsLoaded() then game.Loaded:Wait() end
+
+local Players              = game:GetService("Players")
+local TweenService         = game:GetService("TweenService")
+local ReplicatedStorage    = game:GetService("ReplicatedStorage")
+local RunService           = game:GetService("RunService")
+local UserInputService     = game:GetService("UserInputService")
+
+local LocalPlayer = Players.LocalPlayer
+while not LocalPlayer do task.wait() LocalPlayer = Players.LocalPlayer end
+
+-- =============================================
+--   LOADING BAR (12 seconds)
+-- =============================================
+local loadingGui = Instance.new("ScreenGui")
+loadingGui.Name = "LoadingOverlay"
+loadingGui.ResetOnSpawn = false
+loadingGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+loadingGui.Parent = LocalPlayer:WaitForChild("PlayerGui")
+
+local bg = Instance.new("Frame", loadingGui)
+bg.Size = UDim2.new(1, 0, 1, 0)
+bg.BackgroundColor3 = Color3.fromRGB(5, 2, 1)
+bg.BackgroundTransparency = 0.05
+bg.BorderSizePixel = 0
+
+local loadTitle = Instance.new("TextLabel", bg)
+loadTitle.Size = UDim2.new(0, 200, 0, 30)
+loadTitle.Position = UDim2.new(0.5, -100, 0.4, -15)
+loadTitle.BackgroundTransparency = 1
+loadTitle.Text = "🌋  BASE PROTECTOR"
+loadTitle.TextColor3 = Color3.fromRGB(255, 60, 0)
+loadTitle.Font = Enum.Font.GothamBlack
+loadTitle.TextSize = 24
+
+local barContainer = Instance.new("Frame", bg)
+barContainer.Size = UDim2.new(0, 280, 0, 16)
+barContainer.Position = UDim2.new(0.5, -140, 0.45, 0)
+barContainer.BackgroundColor3 = Color3.fromRGB(30, 10, 5)
+barContainer.BorderSizePixel = 0
+Instance.new("UICorner", barContainer).CornerRadius = UDim.new(0, 8)
+
+local barFill = Instance.new("Frame", barContainer)
+barFill.Size = UDim2.new(0, 0, 1, 0)
+barFill.Position = UDim2.new(0, 0, 0, 0)
+barFill.BackgroundColor3 = Color3.fromRGB(255, 60, 0)
+barFill.BorderSizePixel = 0
+Instance.new("UICorner", barFill).CornerRadius = UDim.new(0, 8)
+
+local statusLabel = Instance.new("TextLabel", bg)
+statusLabel.Size = UDim2.new(0, 280, 0, 20)
+statusLabel.Position = UDim2.new(0.5, -140, 0.48, 0)
+statusLabel.BackgroundTransparency = 1
+statusLabel.Text = "Loading... 0%"
+statusLabel.TextColor3 = Color3.fromRGB(255, 150, 80)
+statusLabel.Font = Enum.Font.GothamMedium
+statusLabel.TextSize = 13
+
+-- Animate over 12 seconds
+local tweenInfo = TweenInfo.new(12, Enum.EasingStyle.Quad, Enum.EasingDirection.Out)
+local tween = TweenService:Create(barFill, tweenInfo, {Size = UDim2.new(1, 0, 1, 0)})
+tween:Play()
+
+local startTime = tick()
+RunService.RenderStepped:Connect(function()
+    if loadingGui.Parent then
+        local elapsed = tick() - startTime
+        local progress = math.clamp(elapsed / 12, 0, 1) * 100
+        statusLabel.Text = string.format("Loading... %d%%", progress)
+        if elapsed >= 12 then
+            -- Fade out
+            local fadeInfo = TweenInfo.new(0.5)
+            local fade = TweenService:Create(bg, fadeInfo, {BackgroundTransparency = 1})
+            fade:Play()
+            fade.Completed:Connect(function()
+                loadingGui:Destroy()
+            end)
+        end
+    end
+end)
+
+tween.Completed:Wait()
+task.wait(0.5)  -- wait for fade out
+loadingGui:Destroy()
+
+-- =============================================
+--   ADMIN REMOTE
+-- =============================================
+local adminRemote = nil
+local notificationRemote = nil
+task.spawn(function()
+    local Packages = ReplicatedStorage:WaitForChild("Packages", 5)
+    if Packages then
+        local Net = Packages:WaitForChild("Net", 5)
+        if Net then
+            adminRemote = Net:FindFirstChild("RE/352aad5B-c786-4998-886b-3e4fa390721e")
+            if not adminRemote or not adminRemote:IsA("RemoteEvent") then
+                for _, obj in pairs(Net:GetChildren()) do
+                    if obj:IsA("RemoteEvent") and obj.Name:lower():find("352aad5") then
+                        adminRemote = obj; break
+                    end
+                end
+            end
+            notificationRemote = Net:FindFirstChild("RE/NotificationService/Notify")
+        end
+    end
+    if not adminRemote then
+        for _, obj in pairs(game:GetDescendants()) do
+            if obj:IsA("RemoteEvent") and obj.Name:lower():find("352aad5") then
+                adminRemote = obj; break
+            end
+        end
+    end
+end)
+
+local function sendCommand(command, targetPlayer)
+    if not adminRemote then return end
+    task.spawn(function()
+        pcall(function()
+            adminRemote:FireServer("78a772b6-9e1c-4827-ab8b-04a07838f298", targetPlayer, command)
+        end)
+    end)
+end
+
+-- =============================================
+--   STATE
+-- =============================================
+local spamKickEnabled   = false
+local spamNoKickEnabled = false
+local antiTPEnabled     = false
+local punishedPlayers   = {}
+local antiTPCooldowns   = {}
+
+local priorityCommands  = {"rocket", "balloon"}
+local secondaryCommands = {"inverse", "tiny", "morph", "jumpscare"}
+local defenseCommand    = "balloon"
+
+-- =============================================
+--   PLOT HELPERS
+-- =============================================
+function findMyPlot()
+    local plots = workspace:FindFirstChild("Plots"); if not plots then return nil end
+    for _, p in pairs(plots:GetChildren()) do
+        local sign = p:FindFirstChild("PlotSign")
+        if sign then
+            local yourBase = sign:FindFirstChild("YourBase")
+            if yourBase and yourBase:IsA("BillboardGui") and yourBase.Enabled then return p end
+        end
+    end
+    local name = LocalPlayer.Name
+    for _, p in pairs(plots:GetChildren()) do
+        if string.find(p.Name, name) then return p end
+        local owner = p:FindFirstChild("Owner")
+        if owner and owner.Value == LocalPlayer then return p end
+    end
+    return nil
+end
+
+local function getPlayersInMyPlot()
+    local myPlot = findMyPlot(); if not myPlot then return {} end
+    local pos = myPlot:GetPivot().Position
+    local decor = myPlot:FindFirstChild("Decorations")
+    if decor then local model = decor:FindFirstChild("Model"); if model then pos = model:GetPivot().Position end end
+    local inPlot = {}
+    for _, plr in ipairs(Players:GetPlayers()) do
+        if plr ~= LocalPlayer and plr.Character then
+            local hrp = plr.Character:FindFirstChild("HumanoidRootPart")
+            if hrp and (hrp.Position - pos).Magnitude < 120 then table.insert(inPlot, plr) end
+        end
+    end
+    return inPlot
+end
+
+local function stripTags(s) return string.gsub(s, "<.->", "") end
+
+-- =============================================
+--   DEFENSE ACTIONS
+-- =============================================
+local function executeAPSpam(targetName, shouldKick)
+    local targetPlayer
+    for _, p in ipairs(Players:GetPlayers()) do if p.Name == targetName then targetPlayer = p; break end end
+    if not targetPlayer then return end
+    sendCommand("balloon", targetPlayer)
+    task.wait(0.02)
+    sendCommand("jail", targetPlayer)
+    task.wait(0.03)
+    for _, cmd in ipairs(priorityCommands) do sendCommand(cmd, targetPlayer) end
+    task.wait(0.03)
+    for _, cmd in ipairs(secondaryCommands) do sendCommand(cmd, targetPlayer) end
+    if shouldKick then task.wait(0.1); LocalPlayer:Kick("Saved by Zenn") end
+end
+
+local function executeDefense(targetName, shouldKick)
+    if (shouldKick and not spamKickEnabled) or (not shouldKick and not spamNoKickEnabled) then return end
+    if punishedPlayers[targetName] then return end
+    punishedPlayers[targetName] = true
+    local targetPlayer
+    for _, p in ipairs(Players:GetPlayers()) do if p.Name == targetName then targetPlayer = p; break end end
+    if not targetPlayer then return end
+    sendCommand(defenseCommand, targetPlayer)
+    task.wait(0.05)
+    executeAPSpam(targetName, shouldKick)
+    task.delay(30, function() punishedPlayers[targetName] = nil end)
+end
+
+local function executeAntiTP(targetName)
+    if not antiTPEnabled then return end
+    if antiTPCooldowns[targetName] then return end
+    antiTPCooldowns[targetName] = true
+    local targetPlayer
+    for _, p in ipairs(Players:GetPlayers()) do if p.Name == targetName then targetPlayer = p; break end end
+    if not targetPlayer then return end
+    sendCommand("balloon", targetPlayer)
+    task.wait(0.02)
+    sendCommand("jail", targetPlayer)
+    task.delay(5, function() antiTPCooldowns[targetName] = nil end)
+end
+
+-- =============================================
+--   BASE DEFENDER & ANTI-TP SYSTEMS
+-- =============================================
+local function startBaseDefender()
+    local myPlot
+    for i=1,10 do myPlot = findMyPlot(); if myPlot then break end; task.wait(1) end
+    if not myPlot then return end
+
+    task.spawn(function()
+        if notificationRemote then
+            notificationRemote.OnClientEvent:Connect(function(msg)
+                if typeof(msg) ~= "string" then return end
+                if not msg:find("Someone is stealing your") and not msg:find("Someone is robbing your") then return end
+                task.spawn(function()
+                    task.wait(0.005)
+                    local inPlot = getPlayersInMyPlot()
+                    if #inPlot == 0 then return end
+                    if #inPlot == 1 then executeDefense(inPlot[1].Name, spamKickEnabled); return end
+                    local decor = myPlot:FindFirstChild("Decorations")
+                    local animals = myPlot:FindFirstChild("AnimalPodiums")
+                    local nearest, bestDist
+                    for _, plr in ipairs(inPlot) do
+                        local hrp = plr.Character and plr.Character:FindFirstChild("HumanoidRootPart")
+                        if hrp then
+                            local dist = math.huge
+                            if decor then local m = decor:FindFirstChild("Model"); if m then dist = math.min(dist, (hrp.Position - m:GetPivot().Position).Magnitude) end end
+                            if animals then for _, a in ipairs(animals:GetChildren()) do dist = math.min(dist, (hrp.Position - a:GetPivot().Position).Magnitude) end end
+                            if not nearest or dist < bestDist then nearest = plr; bestDist = dist end
+                        end
+                    end
+                    if nearest then executeDefense(nearest.Name, spamKickEnabled) else executeDefense(inPlot[1].Name, spamKickEnabled) end
+                end)
+            end)
+        else
+            local playerGui = LocalPlayer:WaitForChild("PlayerGui")
+            local tracked = {}
+            RunService.RenderStepped:Connect(function()
+                if not spamKickEnabled and not spamNoKickEnabled then return end
+                for _, gui in ipairs(playerGui:GetDescendants()) do
+                    if (gui:IsA("TextLabel") or gui:IsA("TextButton")) and gui.Visible then
+                        local txt = gui.Text
+                        if txt and txt ~= "" then
+                            local low = string.lower(stripTags(txt))
+                            if (string.find(low, "stealing", 1, true) or string.find(low, "robbing", 1, true)) and not tracked[gui] then
+                                tracked[gui] = true
+                                task.spawn(function()
+                                    task.wait(0.005)
+                                    local inPlot = getPlayersInMyPlot()
+                                    if #inPlot == 0 then return end
+                                    if #inPlot == 1 then executeDefense(inPlot[1].Name, spamKickEnabled); return end
+                                    local decor = myPlot:FindFirstChild("Decorations")
+                                    local animals = myPlot:FindFirstChild("AnimalPodiums")
+                                    local nearest, bestDist
+                                    for _, plr in ipairs(inPlot) do
+                                        local hrp = plr.Character and plr.Character:FindFirstChild("HumanoidRootPart")
+                                        if hrp then
+                                            local dist = math.huge
+                                            if decor then local m = decor:FindFirstChild("Model"); if m then dist = math.min(dist, (hrp.Position - m:GetPivot().Position).Magnitude) end end
+                                            if animals then for _, a in ipairs(animals:GetChildren()) do dist = math.min(dist, (hrp.Position - a:GetPivot().Position).Magnitude) end end
+                                            if not nearest or dist < bestDist then nearest = plr; bestDist = dist end
+                                        end
+                                    end
+                                    if nearest then executeDefense(nearest.Name, spamKickEnabled) else executeDefense(inPlot[1].Name, spamKickEnabled) end
+                                end)
+                                task.delay(5, function() tracked[gui] = nil end)
+                                break
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end)
+end
+
+local function startAntiTPSystem()
+    task.spawn(function()
+        task.wait(3)
+        local myPlot = findMyPlot(); if not myPlot then return end
+        local decor = myPlot:FindFirstChild("Decorations")
+        local animals = myPlot:FindFirstChild("AnimalPodiums")
+        local detected = {}
+        while task.wait(0.1) do
+            if not antiTPEnabled then continue end
+            local inPlot = getPlayersInMyPlot()
+            for _, plr in ipairs(inPlot) do
+                local hrp = plr.Character and plr.Character:FindFirstChild("HumanoidRootPart")
+                if hrp then
+                    local tooClose = false
+                    if decor then
+                        local m = decor:FindFirstChild("Model")
+                        if m and (hrp.Position - m:GetPivot().Position).Magnitude < 20 then tooClose = true end
+                    end
+                    if animals and not tooClose then
+                        for _, a in ipairs(animals:GetChildren()) do
+                            for _, p in ipairs(a:GetDescendants()) do
+                                if p:IsA("BasePart") then
+                                    p.CanTouch = true
+                                    for _, t in ipairs(p:GetTouchingParts()) do
+                                        if t.Parent == plr.Character then tooClose = true; break end
+                                    end
+                                end
+                                if tooClose then break end
+                            end
+                            if tooClose then break end
+                        end
+                    end
+                    if tooClose and not detected[plr.Name] then
+                        detected[plr.Name] = true
+                        executeAntiTP(plr.Name)
+                        task.delay(2, function() detected[plr.Name] = nil end)
+                    end
+                end
+            end
+        end
+    end)
+end
+
+-- =============================================
+--   RED-THEMED GUI (Lava Style)
+-- =============================================
+local RED_ON  = Color3.fromRGB(230, 40, 20)
+local RED_OFF = Color3.fromRGB(80, 20, 15)
+local ACCENT  = Color3.fromRGB(255, 60, 0)
+local BG      = Color3.fromRGB(12, 4, 2)
+
+local gui = Instance.new("ScreenGui")
+gui.Name = "BaseProtectorLava"
+gui.ResetOnSpawn = false
+gui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+gui.Parent = LocalPlayer:WaitForChild("PlayerGui")
+
+local panel = Instance.new("Frame", gui)
+panel.Size = UDim2.new(0, 280, 0, 210)
+panel.Position = UDim2.new(1, -290, 0, 10)
+panel.BackgroundColor3 = BG
+panel.BackgroundTransparency = 0.05
+panel.ClipsDescendants = true
+panel.Active = true
+panel.Draggable = true
+Instance.new("UICorner", panel).CornerRadius = UDim.new(0, 12)
+
+local stroke = Instance.new("UIStroke", panel)
+stroke.Color = ACCENT
+stroke.Thickness = 2.2
+local strokeGrad = Instance.new("UIGradient", stroke)
+strokeGrad.Color = ColorSequence.new({
+    ColorSequenceKeypoint.new(0, Color3.fromRGB(10,0,0)),
+    ColorSequenceKeypoint.new(0.3, Color3.fromRGB(80,10,0)),
+    ColorSequenceKeypoint.new(0.5, ACCENT),
+    ColorSequenceKeypoint.new(0.7, Color3.fromRGB(80,10,0)),
+    ColorSequenceKeypoint.new(1, Color3.fromRGB(10,0,0)),
+})
+RunService.RenderStepped:Connect(function(dt)
+    strokeGrad.Rotation = (strokeGrad.Rotation + dt * 60) % 360
+end)
+
+-- Lava dots (clipped inside panel)
+local dots = {}
+for _ = 1, 14 do
+    local dot = Instance.new("Frame", panel)
+    dot.BackgroundColor3 = Color3.fromRGB(math.random(200,255), math.random(40,120), 0)
+    dot.BackgroundTransparency = math.random(20,60)/100
+    dot.BorderSizePixel = 0
+    dot.Size = UDim2.new(0, 5, 0, 5)
+    dot.ZIndex = 0
+    Instance.new("UICorner", dot).CornerRadius = UDim.new(1,0)
+    local x, y = math.random(5,260), math.random(-20,-5)
+    dot.Position = UDim2.new(0, x, 0, y)
+    local speed = math.random(12,28)/10
+    local drift = math.random(-3,3)/10
+    table.insert(dots, {frame = dot, x = x, y = y, speed = speed, drift = drift})
+end
+RunService.RenderStepped:Connect(function()
+    for _, d in pairs(dots) do
+        d.y = d.y + d.speed
+        d.x = d.x + d.drift
+        if d.y > 220 then d.y = math.random(-20,-5); d.x = math.random(5,260) end
+        d.frame.Position = UDim2.new(0, d.x, 0, d.y)
+    end
+end)
+
+-- Title
+local title = Instance.new("TextLabel", panel)
+title.Size = UDim2.new(1,0,0,28)
+title.Position = UDim2.new(0,8,0,6)
+title.BackgroundTransparency = 1
+title.Text = "🌋  Base Protector"
+title.TextColor3 = ACCENT
+title.Font = Enum.Font.GothamBlack
+title.TextSize = 15
+title.TextXAlignment = Enum.TextXAlignment.Left
+
+-- =============================================
+--   RED ANIMATED TOGGLE FACTORY
+-- =============================================
+local function createRedToggle(parent, yPos, text)
+    local container = Instance.new("Frame", parent)
+    container.Size = UDim2.new(1, -20, 0, 42)
+    container.Position = UDim2.new(0, 10, 0, yPos)
+    container.BackgroundTransparency = 1
+
+    local label = Instance.new("TextLabel", container)
+    label.Size = UDim2.new(1, -52, 1, 0)
+    label.Position = UDim2.new(0, 2, 0, 0)
+    label.BackgroundTransparency = 1
+    label.Text = text
+    label.TextColor3 = Color3.fromRGB(255, 180, 100)
+    label.Font = Enum.Font.GothamMedium
+    label.TextSize = 12
+    label.TextXAlignment = Enum.TextXAlignment.Left
+
+    local pill = Instance.new("TextButton", container)
+    pill.Size = UDim2.new(0, 44, 0, 22)
+    pill.Position = UDim2.new(1, -44, 0.5, -11)
+    pill.BackgroundColor3 = RED_OFF
+    pill.Text = ""
+    pill.AutoButtonColor = false
+    Instance.new("UICorner", pill).CornerRadius = UDim.new(1, 0)
+
+    local dot = Instance.new("Frame", pill)
+    dot.Size = UDim2.new(0, 16, 0, 16)
+    dot.Position = UDim2.new(0, 3, 0.5, -8)
+    dot.BackgroundColor3 = Color3.fromRGB(120, 30, 20)
+    Instance.new("UICorner", dot).CornerRadius = UDim.new(1, 0)
+
+    local enabled = false
+    local function setState(on)
+        enabled = on
+        local targetPill = on and RED_ON or RED_OFF
+        local targetDot  = on and Color3.fromRGB(255, 80, 60) or Color3.fromRGB(120, 30, 20)
+        local targetPos  = on and UDim2.new(1, -19, 0.5, -8) or UDim2.new(0, 3, 0.5, -8)
+
+        TweenService:Create(pill, TweenInfo.new(0.15), {BackgroundColor3 = targetPill}):Play()
+        TweenService:Create(dot,  TweenInfo.new(0.15), {BackgroundColor3 = targetDot, Position = targetPos}):Play()
+    end
+
+    return pill, setState, function() return enabled end
+end
+
+-- Create three toggles
+local yStart = 44
+local spamKickBtn, spamKickSet, spamKickGet = createRedToggle(panel, yStart,      "SPAM IF STEALING (KICK)")
+local spamNoBtn,     spamNoSet,     spamNoGet     = createRedToggle(panel, yStart+50,  "SPAM IF STEALING (NO KICK)")
+local antiTPBtn,     antiTPSet,     antiTPGet     = createRedToggle(panel, yStart+100, "ANTI-TP SCAM")
+
+-- Mutual exclusivity logic
+spamKickBtn.MouseButton1Click:Connect(function()
+    local newState = not spamKickGet()
+    spamKickEnabled = newState
+    spamKickSet(newState)
+    if newState and spamNoKickEnabled then
+        spamNoKickEnabled = false
+        spamNoSet(false)
+    end
+end)
+
+spamNoBtn.MouseButton1Click:Connect(function()
+    local newState = not spamNoGet()
+    spamNoKickEnabled = newState
+    spamNoSet(newState)
+    if newState and spamKickEnabled then
+        spamKickEnabled = false
+        spamKickSet(false)
+    end
+end)
+
+antiTPBtn.MouseButton1Click:Connect(function()
+    antiTPEnabled = not antiTPGet()
+    antiTPSet(antiTPEnabled)
+end)
+
+-- =============================================
+--   INITIALISE SYSTEMS
+-- =============================================
+startBaseDefender()
+startAntiTPSystem()
+
+print("✅ Base Protector Lava Edition ready!")
